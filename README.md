@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @knu753n
 - 👀 I’m interested in developing and technology. i have a facination for how stuff works.
-- 🌱 I’m currently learning java/c
+- 🌱 I’m currently learning: java/c
 - 📫 How to reach me: mailto:knutsen.b@gmail.com
 
 <!---
